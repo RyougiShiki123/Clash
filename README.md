@@ -1,1 +1,1 @@
-# Clash
+# OpenClash
