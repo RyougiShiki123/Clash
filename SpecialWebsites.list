@@ -2,7 +2,8 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,exhentai
 DOMAIN-KEYWORD,e-hentai
-DOMAIN-KEYWORD,hive-fn.qpyou
+DOMAIN-KEYWORD,qpyou
+DOMAIN-KEYWORD,com2us
 # 域名后缀匹配
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
